@@ -1,2 +1,2 @@
 # django_learning
-learnig django
+learning django
